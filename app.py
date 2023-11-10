@@ -1,6 +1,5 @@
 username = "T Daki"
 
-area_managers = ["Owen Kunaka", "Simon Mahufe", "Trymore Chihwai"]
 restart = "y"
 chances = 3
 
